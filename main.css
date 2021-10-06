@@ -1,0 +1,109 @@
+.bg-dark {
+    background-color: rgb(0 0 0 / 90%)!important;
+}
+li
+{top:10000px;}
+.nav-a
+{
+margin-top:200px;}
+nav
+{
+
+background-color:#000000;}
+.navbar navbar-expand-lg navbar-dark bg-dark
+{
+margin-top:100px;
+}
+.women-socializing
+{
+height:800px;
+width:100%;
+position:relative;
+background-image:url('https://www.stroke.org/-/media/stroke-images/support/group-of-women-socializing-and-happy.png?la=en&hash=2FA90A26D7094BD38CCC9A785439FA2B99E822B1');
+background-repeat:no-repeat;
+ background-attachment:fixed;
+ background-size:cover;
+ image-rendering: -webkit-optimize-contrast;
+
+}
+img.laptop {
+    width: 500px;
+    padding-right: 50px;
+    padding-top: 70px;
+}
+.col-T2 img {
+    margin-bottom: 50px;
+}
+img, svg {
+    vertical-align: middle;
+}.col-T2.aboutus {
+    margin-top: 120px;
+    padding-left: 25px;
+}
+.col-T2 {
+    /* margin-top: 200px; */
+    flex-basis: 50%;
+    min-width: 300px;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}.row{
+	align-items: center;
+	/* display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around; */
+}
+.col-T2{
+
+    /* margin-top: 200px; */
+	flex-basis: 50%;
+	min-width: 300px;
+}
+.col-T2 img{
+	margin-bottom: 0.01px;
+}
+/* .col-2 img{ */
+	/* margin-top: 0px!important; */
+	/* position: absolute;
+	top: 30px;
+	right: 0px; */
+	/* max-width: 100%;  */
+/* } */
+.col-T2 h1{
+    color:  #AB3B61;
+	font-size: 40px;
+    font-weight: 700;
+	line-height: 60px;
+}
+.btn{
+	display: inline-block;
+	background:  #AB3B61;
+	color: #EDE2DC;
+	padding: 10px 25px;
+	margin: 30px 0;
+	border-radius: 30px;
+}
+.btn:hover{
+	background: #cc005f;
+	color:#EEE2DC;
+}.container1 {
+	max-width: 1300px;
+	margin: auto;
+	padding-right: 50px;
+	/* padding-right: 50px; */
+}
+#aboutus
+{
+background-color:#ffcccc;}
+.project-name
+{
+padding:2.5 px;
+margin-left:30px;
+color:#E80B73;
+font-size:40px;
+font-family: 'Lobster';}
+h3
+{
+padding:40px 40px;
+color:#cc005f;
+font-family: 'Lobster';}
